@@ -15,8 +15,7 @@ https://docs.google.com/spreadsheets/d/1kqKfFiL40UU3dCfRaaGBWcVNrQ01CZZm/edit?us
 - https://docs.google.com/document/d/1inBYUR_hVtij2WPTVIV29iW0YtnYRX1Z/edit?usp=drivesdk&ouid=103869321956919985639&rtpof=true&sd=true
  Cronología de resoluciones SENASA y ANMAT/CAA, digitalización vía TAD y transición normativa hacia la simplificación.
 
-📁 **Carpeta Oficial del Proyecto en Google Drive:**  
-[Ver Archivos Originales en Google Drive](PEGAR_AQUI_TU_ENLACE_DE_DRIVE_DEL_PASO_1)
+📁 **link de netlify:  https://comex-alimentos-funcionaless.netlify.app
 
 ## 3. Herramientas Utilizadas
 - **Perplexity:** Investigación de resoluciones aduaneras y de fiscalización fitosanitaria.
