@@ -2,7 +2,7 @@
 # Comercio Exterior Argentino de Alimentos Funcionales y Biotecnológicos (2021–2025)
 
 **Carrera:** Comercio Internacional - Despachante de Aduana  
-**Alumno:** [Tu Nombre y Apellido]  
+**Alumno:** Agostina morales 
 
 ## 1. Descripción del Proyecto
 Análisis técnico y estadístico sobre el comportamiento del comercio exterior argentino en el sector de alimentos funcionales, suplementos dietarios e insumos biotecnológicos durante el período 2021–2025. Se evalúa la evolución de las importaciones y exportaciones por posición NCM junto con el impacto de las Restricciones No Arancelarias (RNA) emitidas por SENASA y ANMAT.
